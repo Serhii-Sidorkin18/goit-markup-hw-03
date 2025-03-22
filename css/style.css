@@ -301,26 +301,22 @@ padding-bottom: 32px;
 
 
 /* footer*/
-.page-footer {
-    
-}
-.footer-container {
-   
-    
-}
-
-.footer-container a {
-    margin-bottom: 16px;
-    display: block;
-    
-}
-
-
 
 .page-footer {
     background-color: #2e2f42;
     padding: 100px 0
 }
+
+
+.footer-container a {
+    margin-bottom: 16px;
+    display: inline-block;
+    
+}
+
+
+
+
 
 
 .footer-logo span {
@@ -333,7 +329,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 text-align: left;
-max-width: 264px;
+ max-width: 264px;
 }
 
 .footer-logo {
@@ -342,6 +338,5 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-display: inline-block;
 }
 
